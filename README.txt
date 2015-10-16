@@ -1,3 +1,25 @@
+mcufriend module
+ili9341(2.4inch 240x320)
+s6d0154(2.8inch 240x320)
+ili9327(3.6inch 240x400) 
+
+Adafruit_TFTLCD.cpp 
+You set a value of #define of TFTHEIGHT and TFTWEIGHT appropriately.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+------------------------------------------------------------------------------
 This is a library for the Adafruit 2.8" TFT display.
 This library works with the Adafruit 2.8" TFT Breakout w/SD card
   ----> http://www.adafruit.com/products/335
